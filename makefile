@@ -12,7 +12,7 @@ FILES :=            \
     RunCollatz.in   \
     RunCollatz.out  \
     TestCollatz.c++ \
-    TestCollatz.out
+    TestCollatz.out \
 
 # uncomment these:
     .travis.yml                           \
