@@ -15,7 +15,7 @@ FILES :=            \
     TestCollatz.out
 
 # uncomment these:
-#    .travis.yml                           \
+    .travis.yml                           \
 #    collatz-tests/GitHubID-RunCollatz.in  \
 #    collatz-tests/GitHubID-RunCollatz.out \
 
